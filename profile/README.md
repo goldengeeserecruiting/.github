@@ -51,17 +51,3 @@ We specialize in forward deployed engineering recruitment, customer engineering 
 **General inquiries:** [contact@goldengeeserecruiting.com](mailto:contact@goldengeeserecruiting.com)
 
 ---
-
-<p align="center">
-  <strong>Golden Geese Recruiting & Advisory</strong>
-</p>
-
-<p align="center">
-  <a href="https://goldengeeserecruiting.com/">Website</a>
-  &nbsp;·&nbsp;
-  <a href="https://goldengeeserecruiting.com/companies">For Companies</a>
-  &nbsp;·&nbsp;
-  <a href="https://goldengeeserecruiting.com/engineers">For Engineers</a>
-  &nbsp;·&nbsp;
-  <a href="https://goldengeeserecruiting.com/about">About Us</a>
-</p>
