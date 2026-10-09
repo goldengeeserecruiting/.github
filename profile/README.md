@@ -40,7 +40,7 @@ We specialize in forward deployed engineering recruitment, customer engineering 
      
 ### For Engineers
 
-  1. **Find Well Suited FDE Roles** [→](https://goldengeeserecruiting.com/engineers)
+  1. **Get Placed in Top Tier FDE Roles** [→](https://goldengeeserecruiting.com/engineers)
 
      Not all FDE roles are created equal. We help engineers identify opportunities that align with their technical strengths, career goals, and interests.
 
