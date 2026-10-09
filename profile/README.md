@@ -1,6 +1,6 @@
 
 <a href="https://goldengeeserecruiting.com/">
-  <img src="./banner.png" alt="Golden Geese Recruiting — Forward Deployed Engineer recruiting and AI customer engineering advisory" width="100%" />
+  <img src="./banner-gh.png" alt="Golden Geese Recruiting — Forward Deployed Engineer recruiting and AI customer engineering advisory" width="100%" />
 </a>
 
 <h1 align="center">Forward Deployed Engineer Recruiting & Advisory</h1>
