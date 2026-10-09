@@ -3,7 +3,7 @@
   <img src="./banner-gh.png" alt="Golden Geese Recruiting — Forward Deployed Engineer recruiting and AI customer engineering advisory" width="100%" />
 </a>
 
-<h1 align="left">Forward Deployed Engineer Recruiting & Advisory</h1>
+<h1 align="left">FDE Recruiting & Advisory</h1>
 
 <p align="left">
   <strong>Built by ex-Cognition AI operators who've done the work.</strong>
