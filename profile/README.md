@@ -1,60 +1,28 @@
 
 <div align="center">
   <img src="./banner.png" alt="Golden Geese Recruiting" width="100%" />
-
-  # FDE Recruiting & Advisory
-
-  **Built by operators who've done the work.**
 </div>
 
----
 
-## Who We Are
+**Built by ex-Cognition AI operators who've done the work.**
+[Meet the team →](https://goldengeeserecruiting.com/about)
 
-### Paxton Duff
-**Co-Founder & CEO**
-
-Employee 25 at Codeium/Windsurf and a top-performing AE. Worked alongside technical teams and customers during the company's rapid growth.
-
-### Maggie Krummel
-**Co-Founder & Managing Partner**
-
-Second deployed engineer at Codeium/Windsurf and the first technical hire outside the Bay Area. Went on to build the global deployed engineering team across Austin, London, and LATAM.
-
-### Our Experience
-
-- **1,000+ interviews conducted**
-  - Deep experience evaluating technical and customer-facing talent.
-
-- **Dozens of FDEs hired**
-  - We know what separates a strong résumé from a great deployed engineer.
-
-- **Built the function firsthand**
-  - Real experience designing and scaling deployed engineering teams.
-
----
-
-## How We Help
+# How We Help
 
 We recruit Forward Deployed Engineers for AI companies, and advise early-stage AI startups.
 
-### For Companies
+## For Companies
 
-#### FDE Recruiting
-**Companies of All Sizes**
+ 1. ### FDE Recruiting (Companies of all sizes) [→](https://goldengeeserecruiting.com/companies)
+      Source and vet exceptional FDEs matched to your product and role. 
 
-Source and vet exceptional FDEs matched to your product and role.
+  3. ### Customer Engineering Org Advisory (Pre-seed – Series C) [→](https://goldengeeserecruiting.com/companies)
 
-#### Customer Engineering Org Advisory
-**Preseed – Series C**
+     Design the mix of roles you need across the customer lifecycle, and the profiles to hire for each. 
+## For Engineers
 
-Design the mix of roles you need across the customer lifecycle, and the profiles to hire for each.
-
-### For Engineers
-
-#### Explore FDE Roles
-
-Find FDE roles that align with your strengths and goals, and build the skills to succeed.
-
+  1. ### Find Well Suited FDE Roles [→](https://goldengeeserecruiting.com/engineers)
+     Find FDE roles that align with your strengths and goals, and build the skills to succeed. 
 ---
 
+[contact@goldengeeserecruiting.com](mailto:contact@goldengeeserecruiting.com)
