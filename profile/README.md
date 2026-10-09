@@ -1,3 +1,5 @@
+# Golden Geese Recruiting
+
 **FDE recruiting & advisory for AI companies. Built by operators who've done the work.**
 
 Golden Geese is an operator-led recruiting and advisory firm focused on **Forward Deployed Engineering (FDE)**. We help AI companies find exceptional customer-facing technical talent and build the teams that turn powerful products into real customer outcomes.
