@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./banner.png" alt="Golden Geese Recruiting Logo" width="200" />
+  <img src="./banner.png" alt="Golden Geese Recruiting" width="100%" />
 
   # FDE Recruiting & Advisory
 
