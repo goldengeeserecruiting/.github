@@ -30,15 +30,15 @@ We specialize in forward deployed engineering recruitment, customer engineering 
 
 ### For Companies
 
- 1. #### FDE Recruiting (Companies of all sizes) [→](https://goldengeeserecruiting.com/companies)
+ 1. #### **FDE Recruiting** (Companies of all sizes) [→](https://goldengeeserecruiting.com/companies)
       Hire exceptional forward deployed engineers matched to your product, customers, and technical requirements.
 
- 2. #### Customer Engineering Org Advisory (Pre-seed – Series C) [→](https://goldengeeserecruiting.com/companies)
+ 2. #### **Customer Engineering Org Advisory** (Pre-seed – Series C) [→](https://goldengeeserecruiting.com/companies)
       Design and scale customer engineering teams, from defining roles and hiring profiles to building effective interview processes and team structures.
      
 ### For Engineers
 
-  1. #### Find Well Suited FDE Roles [→](https://goldengeeserecruiting.com/engineers)
+  1. #### **Find Well Suited FDE Roles** [→](https://goldengeeserecruiting.com/engineers)
      Not all FDE roles are created equal. We help engineers identify opportunities that align with their technical strengths, career goals, and interests.
 
      From understanding the role to preparing for interviews, we help you navigate the FDE hiring process with confidence.
