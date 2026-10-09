@@ -3,17 +3,17 @@
   <img src="./banner-gh.png" alt="Golden Geese Recruiting — Forward Deployed Engineer recruiting and AI customer engineering advisory" width="100%" />
 </a>
 
-<h1 align="center">Forward Deployed Engineer Recruiting & Advisory</h1>
+<h1 align="left">Forward Deployed Engineer Recruiting & Advisory</h1>
 
-<p align="center">
+<p align="left">
   <strong>Built by ex-Cognition AI operators who've done the work.</strong>
 </p>
 
-<p align="center">
+<p align="left">
   Golden Geese Recruiting helps AI companies hire exceptional Forward Deployed Engineers (FDEs), build effective customer engineering organizations, and connect talented engineers with FDE roles that fit their strengths.
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://goldengeeserecruiting.com/companies"><strong>Hire FDEs →</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://goldengeeserecruiting.com/engineers"><strong>Explore FDE Roles →</strong></a>
