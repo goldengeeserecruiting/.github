@@ -1,15 +1,60 @@
-# Golden Geese Recruiting
 
-**FDE recruiting & advisory for AI companies**
+<div align="center">
+  <img src="./banner.png" alt="Golden Geese Recruiting Logo" width="200" />
 
-Golden Geese is an operator-led recruiting and advisory firm focused on **Forward Deployed Engineering (FDE)**. We help AI companies find exceptional customer-facing technical talent and build the teams that turn powerful products into real customer outcomes.
+  # FDE Recruiting & Advisory
 
-## What we do
+  **Built by operators who've done the work.**
+</div>
 
-- [**FDE recruiting:**](https://goldengeeserecruiting.com/companies) Source and assess engineers who can bridge technology, customers, and business impact—matched to the needs of each company and role.
-- [**Customer engineering advisory:**](https://goldengeeserecruiting.com/companies) Help early-stage AI companies (pre-seed - series c) design and scale their customer engineering organizations, from defining roles to shaping hiring strategy.
-- [**Engineer placement:**](https://goldengeeserecruiting.com/engineers) Connect technical talent with FDE opportunities and provide guidance throughout the interview process.
+---
 
-## Connect with us
+## Who We Are
 
-- [contact@goldengeeserecruiting.com](mailto:contact@goldengeeserecruiting.com)
+### Paxton Duff
+**Co-Founder & CEO**
+
+Employee 25 at Codeium/Windsurf and a top-performing AE. Worked alongside technical teams and customers during the company's rapid growth.
+
+### Maggie Krummel
+**Co-Founder & Managing Partner**
+
+Second deployed engineer at Codeium/Windsurf and the first technical hire outside the Bay Area. Went on to build the global deployed engineering team across Austin, London, and LATAM.
+
+### Our Experience
+
+- **1,000+ interviews conducted**
+  - Deep experience evaluating technical and customer-facing talent.
+
+- **Dozens of FDEs hired**
+  - We know what separates a strong résumé from a great deployed engineer.
+
+- **Built the function firsthand**
+  - Real experience designing and scaling deployed engineering teams.
+
+---
+
+## How We Help
+
+We recruit Forward Deployed Engineers for AI companies, and advise early-stage AI startups.
+
+### For Companies
+
+#### FDE Recruiting
+**Companies of All Sizes**
+
+Source and vet exceptional FDEs matched to your product and role.
+
+#### Customer Engineering Org Advisory
+**Preseed – Series C**
+
+Design the mix of roles you need across the customer lifecycle, and the profiles to hire for each.
+
+### For Engineers
+
+#### Explore FDE Roles
+
+Find FDE roles that align with your strengths and goals, and build the skills to succeed.
+
+---
+
